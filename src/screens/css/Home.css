@@ -1,0 +1,10 @@
+.op {
+    display: flex;
+}
+
+.op p {
+    text-transform: capitalize;
+    padding: 20px;
+    /* border: 2px solid #04BBFF;
+    background-color: #1e7493; */
+}

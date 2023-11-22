@@ -1,0 +1,9 @@
+.Header {
+    padding-top: 40px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: linear-gradient(to bottom, transparent, rgb(250, 250, 250)), url("../../img/Wallpaper.png");
+    background-size: cover;
+    text-align: center;
+}
